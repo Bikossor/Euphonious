@@ -1,0 +1,25 @@
+{
+  "name": "euphonious",
+  "version": "0.0.0",
+  "description": "A library to calculate how euphonious a string sounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikossor/Euphonious.git"
+  },
+  "keywords": [
+    "library",
+    "euphonious",
+    "string",
+    "sound"
+  ],
+  "author": "André Lichtenthäler",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bikossor/Euphonious/issues"
+  },
+  "homepage": "https://github.com/Bikossor/Euphonious#readme"
+}
